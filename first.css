@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(51, 41, 4);
+}
+div{
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+.img1{
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(153, 138, 28);
+    outline: dashed 5px rgb(87, 72, 29);
+    height: 400px;
+    width: 400px;
+    background-image: url(nahiri.png);
+    border-radius: 155px 155px;
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img2{
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(232, 235, 153);
+    outline: dashed 5px rgb(153, 205, 151);
+    height: 400px;
+    width: 400px;
+    background-image: url(tyrant.png);
+    border-radius: 155px 155px;
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img3{
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(75, 9, 9);
+    outline: dashed 5px rgb(55, 25, 25);
+    height: 400px;
+    width: 400px;
+    background-image: url(batman.png);
+    border-radius: 155px 155px;
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img4{
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(75, 9, 9);
+    outline: dashed 5px rgb(55, 25, 25);
+    height: 400px;
+    width: 400px;
+    background-image: url(vader.png);
+    border-radius: 155px 155px;
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.line1{
+    display:flex;
+}
